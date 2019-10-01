@@ -1,6 +1,7 @@
-'''
-hidden
-'''
+---
+layout: default
+
+---
 
 # BIO
 
